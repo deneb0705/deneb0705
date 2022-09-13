@@ -1,4 +1,4 @@
-### Gachon Univ.  seungmin Song
+### Gachon Univ.seungmin Song
 
 <!--
 **deneb0705/deneb0705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
